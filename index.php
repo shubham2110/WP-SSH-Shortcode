@@ -1,0 +1,2 @@
+<? php 
+// Silence was golden
